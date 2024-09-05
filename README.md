@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sakib Hossen
 #### Front-End Web Developer
-![Front-End Web Developer](https://media.licdn.com/dms/image/D5616AQE1YVCEn4MEBA/profile-displaybackgroundimage-shrink_350_1400/0/1719680558417?e=1725494400&v=beta&t=DyVJegZ9TEEwy1jXRcIkDA9P5I55UrFbwjNjIaedVlU)
+![Front-End Web Developer](https://media.licdn.com/dms/image/v2/D5616AQE1YVCEn4MEBA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719680558417?e=1730937600&v=beta&t=06HT_jw5PVXm0G2kx-F5ci_MEPbM4-cBapVSxgLiNOU)
 
 I'm a passionate web developer specializing in creating interactive and responsive websites. My skills include HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React JS, and Next JS. I love crafting sleek, modern designs and bringing them to life with clean, efficient code. Check out my repositories to see my latest projects and contributions!
 
