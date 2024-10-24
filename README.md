@@ -5,10 +5,10 @@
 I'm a passionate web developer specializing in creating interactive and responsive websites. My skills include HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React JS, and Next JS. I love crafting sleek, modern designs and bringing them to life with clean, efficient code. Check out my repositories to see my latest projects and contributions!
 
 Skills:
-HTML | CSS | Bootstrap | Tailwind CSS | SASS | JavaScript | GSAP | React JS (Redux) | Next JS | MongoDB
+HTML | CSS | Bootstrap | Tailwind CSS | SASS | JavaScript | React JS (Redux) | Next JS | GSAP | Framer Motion | MongoDB | Python | SQL
 
 - 🔭 I’m currently working on Backend 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Django 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsakibhossen&label=Profile%20views&color=0e75b6&style=flat" alt="mdsakibhossen" /> </p>
 
