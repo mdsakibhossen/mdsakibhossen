@@ -5,7 +5,7 @@
 I'm a passionate web developer specializing in creating interactive and responsive websites. My skills include HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React JS, and Next JS. I love crafting sleek, modern designs and bringing them to life with clean, efficient code. Check out my repositories to see my latest projects and contributions!
 
 Skills:
-HTML | CSS | Bootstrap | Tailwind CSS | SASS | JavaScript | React JS (Redux) | Next JS | GSAP | Framer Motion | MongoDB | Python | SQL
+HTML | CSS | Bootstrap | Tailwind CSS | SASS | JavaScript | React JS (Redux) | Next JS | GSAP | Framer Motion | MongoDB | Python | SQL | Django
 
 - 🔭 I’m currently working on Backend 
 - 🌱 I’m currently learning Django 
@@ -14,15 +14,17 @@ HTML | CSS | Bootstrap | Tailwind CSS | SASS | JavaScript | React JS (Redux) | N
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mdsakibhossen01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdsakibhossen01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-sakib-hossen-486226237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sakib-hossen-486226237/" height="30" width="40" /></a>
-<a href="https://fb.com/mdsakibhossen01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdsakibhossen01" height="30" width="40" /></a>
-<a href="https://instagram.com/mdsakibhossen01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdsakibhossen01" height="30" width="40" /></a>
+<a href="https://twitter.com/mdsakibhossen01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdsakibhossen01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mdsakibhossen/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sakib-hossen-486226237/" height="30" width="40" /></a>
+<a href="https://fb.com/mdsakibhossen01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdsakibhossen01" height="30" width="40" /></a>
+<a href="https://instagram.com/mdsakibhossen01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdsakibhossen01" height="30" width="40" /></a>
 </p>
+<br>
 
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
+<p><a href="https://www.codewars.com/users/mdsakibhossen" target="_blank"><img align="center" src="https://www.codewars.com/users/mdsakibhossen/badges/large" alt="CodeWars Profile" /></a></p>
+<br>
+<p><a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> </p>
+<br>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdsakibhossen&theme=radical)](https://github.com/ryo-ma/github-profile-trophy&theme=radical)
