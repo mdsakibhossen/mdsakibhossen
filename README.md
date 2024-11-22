@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Md Sakib Hossen
 #### Front-End Web Developer
 ![Front-End Web Developer](https://media.licdn.com/dms/image/v2/D5616AQE1YVCEn4MEBA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719680558417?e=1736985600&v=beta&t=jIDl52HhK5-xexNwSP3vijNaT5TxIKbK7rrLUYPNB14)
-<p>I'm a self-taught developer with over three years of experience in web development, continually expanding my knowledge and skills. My projects range from e-commerce websites to blogs and portfolio templates, showcasing both front-end and full-stack capabilities. I've worked with various libraries and frameworks, including GSAP and Framer Motion for animations to create seamless, dynamic user experiences. </p> <br>
+<p>I'm a self-taught developer with over three years of experience in web development, continually expanding my knowledge and skills. My projects range from e-commerce websites to blogs and portfolio templates, showcasing both front-end and full-stack capabilities. I've worked with various libraries and frameworks, including GSAP and Framer Motion for animations to create seamless, dynamic user experiences. </p> 
 <p>I also enjoy building responsive designs using Tailwind CSS and creating complex UIs with React and Next.js. In addition to web development, I'm delving into Python, adding to my versatile skill set. With each project, I focus on delivering high-quality, tailored solutions that meet client needs and industry standards. Feel free to check out my repositories to explore my latest work and contributions! </p>
 
 Skills:
